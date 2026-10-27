@@ -2,12 +2,12 @@
 
 ## Proposed publicity
 
-- Publicise to instagram
-- Publicise to tiktok
-- Publicise to twitter
-- Publicise to school website
-- Publicise to reddit
+- Members should conduct publicicity on instagram
+- Members should conduct publicicity on tiktok
+- Members should conduct publicicity on twitter
+- Members should conduct publicicity on school website
+- Members should conduct publicicity on reddit
 
 ## Questions for discussion
 
-- What format do we publicise?
+- Using what format do we publicise? Is it through video or a poster?
