@@ -1,10 +1,14 @@
-# Overview
+<h> Overview </h>
 
-## Overview of Content
+## Overview of Complete Content
 
-- team.md
+- team.md 
 - event.md
 - programme.md
 - publicity.md
 - logistics.md
 - README.md
+
+## Questions for discussion
+
+- What can we do to make discussion engaging?
