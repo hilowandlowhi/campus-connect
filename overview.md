@@ -8,3 +8,7 @@
 - publicity.md
 - logistics.md
 - README.md
+
+## Questions for discussion
+
+- What can we do to make discussion engaging?
