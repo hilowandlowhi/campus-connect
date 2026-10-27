@@ -6,7 +6,6 @@
 - Group icebreaker.
 - Campus discovery challenge.
 - Sharing session.
-- Closing and feedback.
 
 ## Questions for discussion
 
